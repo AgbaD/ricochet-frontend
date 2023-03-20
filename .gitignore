@@ -8,14 +8,17 @@ logs
 node_modules
 bower_components
 .eslintcache
+temp_auto_push.bat
 yarn-error.log
 .idea
 .DS_Store
 build.tar.gz
 build
-.vscode
 
 .env.local
 .env
 KUBECONFIG
 
+.gitignore
+temp_interactive_push.bat
+branch_structure.json
